@@ -48,7 +48,7 @@ status:     Building & shipping every day
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/uPlWK8SMxzlhR5oFxV/giphy.gif" width="260" style="border-radius:8px" alt="anime girl typing gif" />
+<img src="assets/coding-anime.gif" width="260" style="border-radius:8px" alt="anime coding gif" />
 
 </td>
 </tr>

@@ -92,9 +92,9 @@ status:     Building & shipping every day
 **🧠 AI & Agent**
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,langchain,huggingface,ollama,gemini,mistral,pytorch,tensorflow&theme=dark">
-<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-FF6FB5?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM-Agent-10%2B_Skills-FF6FB5?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,langchain,huggingface,ollama,gemini,mistral,pytorch,tensorflow,mcp&theme=dark">
+<img src="https://img.shields.io/badge/MCP-Compatible-FF6FB5?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Agent-10%2B_Skills-FF6FB5?style=flat-square" />
 </p>
 
 **🐳 DevOps & 工程化**

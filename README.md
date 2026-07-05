@@ -34,11 +34,16 @@ status:     Building & shipping every day
 - 🌱 **大学生** 对计算机充满热情，喜欢动手做项目
 - 🤖 **AI 应用开发** Android AI 陪伴框架 / AI 自学习技能 / 代码规范工具
 - 📱 **Android 工程师** Kotlin + Jetpack Compose 大型模块化工程实践
-- 🌐 **恋语 LianYu** 官方网站 → [lianyu.chat](https://lianyu.chat/)
 - 🧠 **AI Skill 工程师** 自学习 / 自反思 / 人格演绎 / 联网学习技能
 - 🛡️ **代码质量治理** AI 驱动的代码规范与质量平台
 - 💬 **擅长** Kotlin / TypeScript / Python / Compose / MCP
 - ⚡ **Fun fact** 一个项目从 Android 跨到 AI Agent，再跨到 CSS 组件库——万物皆可造
+
+<p align="center">
+<a href="https://lianyu.chat/">
+  <img src="https://img.shields.io/badge/Lianyu-Official_Website_%E2%86%92_lianyu.chat-FF6FB5?style=for-the-badge&labelColor=2a103a&logo=googlechrome&logoColor=white" alt="Lianyu Official Website" />
+</a>
+</p>
 
 </td>
 <td width="38%" align="center" valign="middle">
